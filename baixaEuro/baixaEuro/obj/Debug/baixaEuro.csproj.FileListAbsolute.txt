@@ -1,0 +1,12 @@
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\bin\Debug\baixaEuro.exe
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\bin\Debug\baixaEuro.pdb
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\obj\Debug\baixaEuro.csproj.CoreCompileInputs.cache
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\obj\Debug\baixaEuro.exe
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\obj\Debug\baixaEuro.pdb
+C:\Users\ANDERSON\source\repos\baixaEuro\baixaEuro\obj\Debug\baixaEuro.csproj.AssemblyReference.cache
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\bin\Debug\baixaEuro.exe
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\bin\Debug\baixaEuro.pdb
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\obj\Debug\baixaEuro.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\obj\Debug\baixaEuro.exe
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\obj\Debug\baixaEuro.pdb
+C:\Desenvolvimento\BaixaEuro\baixaEuro\baixaEuro\obj\Debug\baixaEuro.csproj.AssemblyReference.cache
